@@ -9,7 +9,7 @@ The smoke generator consists of an e-cigarette to which a small pump is attached
 ## CAD Design
 The smoke generator, shown in the figure below, was designed using FreeCAD software. It features an internal cavity that keeps the smoke away from the electronic circuitry. The smoke enters the cavity at the inlet and gets out from several slots placed around the smartphone at the surface.
 
-![CAD Image](https://github.com/ubilab-escape/mission-briefing/blob/master/CAD/Images/10.png)
+![CAD Image](https://github.com/ubilab-escape/mission-briefing/blob/master/CAD/Images/0.png)
 
 ## Mission Briefing Clip
 The mission briefing clip was implemented in Adobe After-Effect. A Cloud-Based text-to-speach (TTS) Api was used for presenting the mission. The TTS API can be found at: https://ttsdemo.com
