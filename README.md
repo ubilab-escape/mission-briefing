@@ -15,7 +15,18 @@ The smoke generator, shown in the figure below, was designed using FreeCAD softw
 The mission briefing clip was implemented in Adobe After-Effect. A Cloud-Based text-to-speach (TTS) Api was used for presenting the mission. The TTS API can be found at: https://ttsdemo.com
 
 ## Android App
-In order to automatically play the clip on the smartphone and trigger the flash light at the end, an app was required. The app was implemented in MIT App Inventor. App Inventor is a use web-application integrated development environment which is very easy for beginners.
+In order to automatically play the clip on the smartphone and trigger the flash light at the end, an app was required. The app was implemented in MIT App Inventor. App Inventor is a web-application integrated development environment which is very easy for beginners.
+
+![App Image](https://github.com/ubilab-escape/mission-briefing/blob/master/Android%20App/UBI.png)
 
 ## Electronics 
+- MCU: Arduino Nano 
+- LDR: 2mm LDR (non-RoHS)
+- Reed Relay: Schneider Electric 117SIP-6 
+- Resistor: 10K 
+- Mini Pump: YYP031-3A1
+- E-cigarette: CE-4
+- Mini Breadboard
+- Batteries : 9V and 4.5V (x3 1.5V)
+
 ![Circuit Image](https://github.com/ubilab-escape/mission-briefing/blob/master/Circuit.PNG)
