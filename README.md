@@ -30,3 +30,11 @@ In order to automatically play the clip on the smartphone and trigger the flash 
 - Batteries : 9V and 4.5V (x3 1.5V)
 
 ![Circuit Image](https://github.com/ubilab-escape/mission-briefing/blob/master/Circuit.PNG)
+
+## Integration notes for rebuilding the system
+- 3D print the design (mesh files @ \CAD\Mesh Files)
+- Flash the arduino with the code provided (code @ \Arduino\Arduino.ino).
+- Connect the components as shown in the schematic (Circuit.PNG).
+- Install the apk file provided on a Nexus 5 smartphone (file @ \Android App\UBI.apk).
+- Place the ubi_mission.mp4 file into the home directory of the smartphone (file @ \Briefing Clip\ubi_mission.mp4).
+- Mount the phone onto the smoke machine and run the app!
